@@ -1,5 +1,5 @@
 {
-  "name": "vite-vue3-tailwind-time-tracker",
+  "name": "vue-sematic-compare",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,11 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/vite": "^4.1.11",
-    "jspdf": "^3.0.1",
-    "pinia": "^3.0.3",
     "tailwindcss": "^4.1.11",
-    "tesseract.js": "^6.0.1",
     "vue": "^3.5.17"
   },
   "devDependencies": {
